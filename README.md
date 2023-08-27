@@ -23,3 +23,5 @@ There are 3 hypothesis tests:
 Hypothesis test: ttest_ind
 Significance level = 0.02
 
+Tableau visualization: https://public.tableau.com/views/FinalProject6_16922901106340/Project6?:language=en-US&:display_count=n&:origin=viz_share_link
+
